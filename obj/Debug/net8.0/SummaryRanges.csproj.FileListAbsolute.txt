@@ -1,0 +1,14 @@
+/home/gara/csharp/progects_not_big/SummaryRanges/bin/Debug/net8.0/SummaryRanges
+/home/gara/csharp/progects_not_big/SummaryRanges/bin/Debug/net8.0/SummaryRanges.deps.json
+/home/gara/csharp/progects_not_big/SummaryRanges/bin/Debug/net8.0/SummaryRanges.runtimeconfig.json
+/home/gara/csharp/progects_not_big/SummaryRanges/bin/Debug/net8.0/SummaryRanges.dll
+/home/gara/csharp/progects_not_big/SummaryRanges/bin/Debug/net8.0/SummaryRanges.pdb
+/home/gara/csharp/progects_not_big/SummaryRanges/obj/Debug/net8.0/SummaryRanges.GeneratedMSBuildEditorConfig.editorconfig
+/home/gara/csharp/progects_not_big/SummaryRanges/obj/Debug/net8.0/SummaryRanges.AssemblyInfoInputs.cache
+/home/gara/csharp/progects_not_big/SummaryRanges/obj/Debug/net8.0/SummaryRanges.AssemblyInfo.cs
+/home/gara/csharp/progects_not_big/SummaryRanges/obj/Debug/net8.0/SummaryRanges.csproj.CoreCompileInputs.cache
+/home/gara/csharp/progects_not_big/SummaryRanges/obj/Debug/net8.0/SummaryRanges.dll
+/home/gara/csharp/progects_not_big/SummaryRanges/obj/Debug/net8.0/refint/SummaryRanges.dll
+/home/gara/csharp/progects_not_big/SummaryRanges/obj/Debug/net8.0/SummaryRanges.pdb
+/home/gara/csharp/progects_not_big/SummaryRanges/obj/Debug/net8.0/SummaryRanges.genruntimeconfig.cache
+/home/gara/csharp/progects_not_big/SummaryRanges/obj/Debug/net8.0/ref/SummaryRanges.dll
